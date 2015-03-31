@@ -1,6 +1,8 @@
-- What is a scripting language?
-- What is a variable?
-- What is a string? An array? A boolean?
+- **What is a scripting language?**  
+- scripting languages are used to add functionality to a site. Such as, different menu styles or graphic displays.  
+- **What is a variable?**  
+- they are containers for storing data files.  
+- **What is a string? An array? A boolean?**  
 - What are events?
 - Link to codeacademy profile: 
 - Code for Project Euler solution in file `project_euler_1.js`.
